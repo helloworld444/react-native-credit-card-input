@@ -11,8 +11,8 @@ import ReactNative, {
     TouchableOpacity,
     Keyboard
 } from 'react-native';
-import Metrics from '@constants/metrics';
-import colors from '@config/colors';
+import Metrics from './metrics';
+import colors from './colors';
 
 import CreditCard from './CardView';
 import CCInput from './CCInput';
