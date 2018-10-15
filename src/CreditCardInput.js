@@ -65,7 +65,7 @@ const s = StyleSheet.create({
     }
 });
 
-const CVC_INPUT_WIDTH = 150;
+const CVC_INPUT_WIDTH = 0.38 * metrics.screenWidth;
 const EXPIRY_INPUT_WIDTH = CVC_INPUT_WIDTH;
 
 const CARD_NUMBER_INPUT_WIDTH = Metrics.screenWidth - 40;
