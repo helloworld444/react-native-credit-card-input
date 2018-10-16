@@ -39,7 +39,6 @@
     "lodash.pick": "^4.4.0",
     "lodash.values": "^4.3.0",
     "prop-types": "^15.6.0",
-    "react-native": "^0.57.3",
     "react-native-flip-card": "^3.4.1"
   },
   "devDependencies": {
